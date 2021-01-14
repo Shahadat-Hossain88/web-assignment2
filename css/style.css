@@ -7,13 +7,6 @@
 .nav-item{
     font-weight: 600;
 }
-#a-nav{
-    display: inline-block;
-    width: 80%;
-}
-#a-nav-photo{
-    width: 80%;
-}
 .card-bg{
     background-image: linear-gradient(gray, seagreen );
     border-radius: 15%;
